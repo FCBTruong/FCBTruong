@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @FCBTruong
-- 👀 I’m interested in playing game
-- 🌱 I’m currently learning information and technology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nguyenhuytruong9112k@gmail.com
-
-<!---
-FCBTruong/FCBTruong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Truong
+👀 I’m passionate about technology and the evolving landscape of software development. I have nearly 4 years of experience as a Software Engineer, where I honed my skills in building robust applications.
+🌱 Over the past year, I’ve transitioned into DevOps, focusing on cloud infrastructure, automation, and data workflows. I’m currently diving deeper into DevOps tools and practices, Kubernetes, CI/CD pipelines, and cloud platforms.
+💼 I'm looking to collaborate on innovative DevOps projects, automation tools, and cloud infrastructure management.
+📫 Reach me at: nguyenhuytruong9112k@gmail.com
